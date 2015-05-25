@@ -22,7 +22,8 @@ class AchievementsServiceWrapper {
         criteria: ACHIEVEMENT_CRITERIA,
         evidence: ACHIEVEMENT_EVIDENCE,
         name: 'Sharing is Caring',
-        description: 'Share your apps and add-ons in Sharing app.'
+        description: 'Share your apps and add-ons in Sharing app.',
+        image: 'icons/default.png'
       });
     });
   }
